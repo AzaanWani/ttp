@@ -40,7 +40,7 @@
 
     <div class="col-lg-12 col-md-12" >
         <div class="about-content" data-aos="fade-left" data-aos-delay="100">
-        <h2><b>TheTestingPro<sup>TM</sup></b> ART p-Quick Test Centre (p-QTC)</h2>    
+        <h2><b>TheTestingPro<sup>TM</sup></b> ART p-Quick Test Centre (p-QTC)  </h2>    
             <p>
                 To support the nation’s Covid-19 testing efforts, along with our aim to make available 
                 conveniently located and safe testing facilities to persons requiring Antigen Rapid Test 
