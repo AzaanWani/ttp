@@ -193,7 +193,7 @@
                             <tr>
                                 <td>Canopy @ J-Link <br> (Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>134 Jurong Gate Way Road<br>Singapore 600134 <br> (Behind JCube / Jurong East Central)</td>
-                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
+                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </td>
                             </tr>
                             <tr>
                                 <td>Blk 535 Choa Chu Kang St 51 <br>(Void Deck)<br> <span class="text-danger"><i>Supervised Self-Administered ART only</i></span></td>
