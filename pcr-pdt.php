@@ -145,7 +145,7 @@
                     <div class="col-sm-12">
                         <h2 class="font-weight-bold text-center">
                             <strong>
-                            Frequently Asked Questions
+                            Frequently Asked Questions  
                             </strong>
                             <br> 
                         </h2> <br>                           
