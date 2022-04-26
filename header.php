@@ -52,10 +52,10 @@
               <li class="d-sm-none"><a href="services.php">Services</a></li>
               <!-- <li><a href="pqtc.php">p-Quick Test Centers</a></li> -->
               <li class="drop-down m1" label="p-Quick Test Centers"><a href="pqtc.php">p-Quick Test Centers</a>
-                <ul>
+                <!-- <ul>
                   <li class="d-sm-none"><a href="pqtc.php">p-Quick Test Centers</a></li>              
                   <li><a href="IDRTC.php">IDRTC</a></li>              
-                </ul>
+                </ul> -->
               </li>
               <li class="drop-down m1" label="p-Quick Test Centers"><a href="art-pdt.php">ART PDT</a>
                 <ul>
@@ -63,12 +63,7 @@
                   <li><a href="book-artpdt.php">Booking ART</a></li>              
                 </ul>
               </li>
-              <li class="drop-down m1" label="p-Quick Test Centers"><a href="i-art.php">I-ART</a>
-                <ul>
-                  <li class="d-sm-none"><a href="i-art.php">I-ART </a></li>              
-                  <li><a href="https://www.picktime.com/thetestingpro ">Booking I-ART</a></li>              
-                </ul>
-              </li>
+             
               <li class="drop-down m1" label="p-Quick Test Centers"><a href="pcr-pdt.php">PCR PDT</a>
                 <ul>
                   <li class="d-sm-none"><a href="pcr-pdt.php">PCR PDT</a></li>              
@@ -80,6 +75,12 @@
                 <ul>
                   <li class="d-sm-none"><a href="mts.php">Mobile Test</a></li>              
                   <li><a href="book-mts.php">Book MTS</a></li>              
+                </ul>
+              </li>
+              <li class="drop-down m1" label="p-Quick Test Centers"><a href="i-art.php">I-ART</a>
+                <ul>
+                  <li class="d-sm-none"><a href="i-art.php">I-ART </a></li>              
+                  <li><a href="https://www.picktime.com/thetestingpro ">Booking I-ART</a></li>              
                 </ul>
               </li>
               <!-- <li><a href="mobile-supervised-self-swab.php">Mobile Supervised Self-Swab</a></li>  -->             

@@ -16,7 +16,7 @@
             <div class="col-lg-12 col-md-12" >
                 <div class="about-content" data-aos="fade-left" >
                     <h2 class="text-center">   I-ART  </h2>
-                    <p><h5><b>I-ART</b> allows you to skip making a trip to the clinic or a test centre just to do your Covid-19<b> Pre-Event Test (PET)</b> or<b> Pre-Departure Test (PDT)*</b>. For anyone who requires a Supervised Self-Administered Antigen Rapid Test (ART) for a variety of purposes, you can now do it via <b>I-ART</b>. 
+                    <p><h5><b>I-ART</b> allows you to skip making a trip to the clinic or a test centre just to do your Covid-19<b> Pre-Event Test (PET)</b> or<b> Pre-Departure Test (PDT) <span class="text-danger">*</span></b>. For anyone who requires a Supervised Self-Administered Antigen Rapid Test (ART) for a variety of purposes, you can now do it via <b>I-ART</b>. 
 </h5></p>
                     <p>
                         
@@ -32,7 +32,7 @@
                                     <tr>
                                         <th class="text-center">For</th>
                                         <td>Pre-Event Test (PET)<br>
-                                             Pre-Departure Test (PDT)*</td>
+                                             Pre-Departure Test (PDT)<span class="text-danger">*</span></td>
                                     </tr>
                                     <tr>
                                         <th class="text-center">Where</th>
@@ -41,7 +41,7 @@
                                     <tr>
                                         <th class="text-center">Price</th>
                                         <td>SPET: S$15.00 per test<br>
-                                             PDT*: S$25.00 per test (inclusive of Notarised Digital HealthCert)</td>
+                                             PDT<span class="text-danger">*</span>: S$25.00 per test (inclusive of Notarised Digital HealthCert)</td>
                                     </tr>
                                     <tr>
                                         <th class="text-center">How</th>
@@ -74,10 +74,10 @@
                 <p>
                     <h5><b>About Test Results and Notarised Digital HealthCert</b></h5>
                         <ul>
-                            <li>Test Result will be ready 1 hour from completion of test</li> &nbsp;
+                            <li>Test Result will be ready <u>1 hour</u> from completion of test</li> &nbsp;
                             <li>Test Result will be sent via SMS (where applicable)</li>&nbsp;
                             <li>Notarized Digital HealthCert, where applicable, will be issued within 2 hours from receipt of the Online HealthCert Request (HCR) Form, and will be issued via email only </li>&nbsp;
-                             <li>Notarized Digital HealthCerts include the EU-DCC compatible QR code </li>
+                             <li>Notarized Digital HealthCerts include the<u> EU-DCC compatible</u> QR code </li>
                              
                         </ul> 
                 </p>
@@ -97,9 +97,9 @@
                  <h6 class="text-center"><b> For any enquiries about I-ART, please email to <a href= "mailto:concierge@thetestingpro.com"> <u>concierge@thetestingpro.com</u></b></a></h6>
                  <p>
                      <h5><b>Important Notes, Requirements, Terms & Conditions</b></h5>
-                     <ul>
+                     <ol>
                             <li>Operation Hours:<b> 9:00 AM – 9:00 PM </b></li><br>
-                            <li>You will require to have at least <b>two (2)</b> test kits that are <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests"><u>approved by HSA Singapore</u></a></li> <br>
+                            <li>You will require to have at least <b><u>two (2)</u></b> test kits that are <a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests"><u>approved by HSA Singapore</u></a></li> <br>
                             <li>You will require to have a dual-camera phone or tablet, which can show on screen the entire testing area and the individual. </li><br>
                              <li>It is a requirement to show your IC or Passport (for Pre-departure travelers) for verification purpose during the test session. </li><br>
                              <li> Log on at appointment time and follow the instructions given by our I-ART supervisor.</li><br>
@@ -108,18 +108,18 @@
                              <li> Your test results will be sent to you via SMS/email from HPB within 2 hours after your test is done and it will also be updated on your TraceTogether / HealthHub (where applicable) as well. </li> <br>
                                 Note: Please contact our hotline (+65 8011 8728) if you did not receive your ART results
                              
-                        </ul> 
+                        </ol> 
                  </p>
                  <p> 
                  <h5><b>I-ART session</b></h5>
-                 <ul>
+                 <ol>
                              <li> Sanitise hands before the test commence.</li><br>
                              <li> We will need to verify your test kits. Display both your ART kits to our I-ART Supervisor (ensure the ART batch/LOT number is shown to us as well).</li><br>
                              <li> Follow the instructions given by our I-ART supervisor for the test.</li><br>
                              <li> Wait 15 minutes for the ART results to be confirmed. Ensure camera is zoomed in on the ART kit that is placed on display throughout the entire session.</li><br>
                              <li> Once 15 minutes is up, our I-ART supervisor will record your result and submit to MOH. </li><br>
                               Note: Only in the situation when the test result is invalid, our I-ART supervisor will prompt you re-do the test with the second ART kit.
-                 </ul>     
+                 </ol>     
                  </p>
             </div>
             <div class="col-md-12" data-aos="fade-right">
