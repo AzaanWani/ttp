@@ -16,7 +16,7 @@
             <div class="col-lg-12 col-md-12" >
                 <div class="about-content" data-aos="fade-left" >
                     <h2 class="text-center">   I-ART  </h2>
-                    <p><h5><b>I-ART</b> allows you to skip making a trip to the clinic or a test centre just to do your Covid-19<b> Pre-Event Test (PET)</b> or<b> Pre-Departure Test (PDT) <span class="text-danger">*</span></b>. For anyone who requires a Supervised Self-Administered Antigen Rapid Test (ART) for a variety of purposes, you can now do it via <b>I-ART</b>. 
+                    <p><h5><b>I-ART</b> allows you to skip making a trip to the clinic or a test centre just to do your Covid-19<b> Pre-Event Test (PET)</b> or<b> Pre-Departure Test (PDT) <span class="text-danger"><b>*</b></span></b>. For anyone who requires a Supervised Self-Administered Antigen Rapid Test (ART) for a variety of purposes, you can now do it via <b>I-ART</b>. 
 </h5></p>
                     <p>
                         
@@ -32,7 +32,7 @@
                                     <tr>
                                         <th class="text-center">For</th>
                                         <td>Pre-Event Test (PET)<br>
-                                             Pre-Departure Test (PDT)<span class="text-danger">*</span></td>
+                                             Pre-Departure Test (PDT)<span class="text-danger"><b>*</b></span></td>
                                     </tr>
                                     <tr>
                                         <th class="text-center">Where</th>
@@ -40,12 +40,12 @@
                                     </tr>
                                     <tr>
                                         <th class="text-center">Price</th>
-                                        <td>SPET: S$15.00 per test<br>
-                                             PDT<span class="text-danger">*</span>: S$25.00 per test (inclusive of Notarised Digital HealthCert)</td>
+                                        <td>PET:<u> S$15.00</u> per test<br>
+                                             PDT<span class="text-danger"><b>*</b></span>:<u> S$25.00 </u>per test (inclusive of Notarised Digital HealthCert)</td>
                                     </tr>
                                     <tr>
                                         <th class="text-center">How</th>
-                                        <td>Book Appointment Here -><br> <a href="book-i-art.php"><u> https://www.picktime.com/thetestingpro </u> </a></td>
+                                        <td>Book Appointment Here -><br> <a href="https://www.picktime.com/thetestingpro"><u> https://www.picktime.com/thetestingpro </u> </a></td>
                                     </tr>
                                     <tr>
                                         <th class="text-center">Includes</th>
@@ -69,7 +69,7 @@
         </div>
         <div class="row" >
             <div class="col-md-12" data-aos="fade-right">
-                <p>  <i><span class="text-danger">* </span>Only for countries that accept Supervised Self-Administered Antigen Rapid Test (ART) as a form of Pre-Departure Test (PDT)
+                <p>  <i><span class="text-danger"><b>*</b></span>Only for countries that accept Supervised Self-Administered Antigen Rapid Test (ART) as a form of Pre-Departure Test (PDT)
                </i> </p>
                 <p>
                     <h5><b>About Test Results and Notarised Digital HealthCert</b></h5>
@@ -92,8 +92,8 @@
                                         PDT: $25.00 per test <br>
                                         (all inclusive) 
                 </b> </span></h4>
-                 <h6 class="text-center"><b>You are required to have at least two (2)<a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests"><u> HSA Approved </u></a>ART Kit </b></h6>
-                 <h6 class="text-center"> To book an I-ART appointment, please <a href="https://www.picktime.com/thetestingpro"><u> BOOK HERE</u> </a> </h6>
+                 <h6 class="text-center"><b><i>You are required to have at least two (2)<a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests"><u> HSA Approved </u></a>ART Kit</i> </b></h6>
+                 <h6 class="text-center"> To book an I-ART appointment, please <a href="https://www.picktime.com/thetestingpro"><b><u> BOOK HERE</u></b> </a> </h6>
                  <h6 class="text-center"><b> For any enquiries about I-ART, please email to <a href= "mailto:concierge@thetestingpro.com"> <u>concierge@thetestingpro.com</u></b></a></h6>
                  <p>
                      <h5><b>Important Notes, Requirements, Terms & Conditions</b></h5>
@@ -130,8 +130,8 @@
                                         PDT: $25.00 per test <br>
                                         (all inclusive) 
                 </b> </span></h4>
-                 <h6 class="text-center"> <b>You are required to have at least two (2)<a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests"><u> HSA Approved </u></a>ART Kit </b></h6>
-                 <h6 class="text-center"> To book an I-ART appointment, please <a href="https://www.picktime.com/thetestingpro"><u> BOOK HERE</u> </a> </h6>
+                 <h6 class="text-center"> <b><i>You are required to have at least two (2)<a href="https://www.hsa.gov.sg/consumer-safety/articles/covid19_selftests"><u> HSA Approved </u></a>ART Kit </i></b></h6>
+                 <h6 class="text-center"> To book an I-ART appointment, please <a href="https://www.picktime.com/thetestingpro"><u><b> BOOK HERE</b></u> </a> </h6>
                  <h6 class="text-center"><b> For any enquiries about I-ART, please email to <a href= "mailto:concierge@thetestingpro.com"> <u>concierge@thetestingpro.com</u></b></a></h6>
              </div>
             
