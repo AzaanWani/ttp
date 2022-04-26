@@ -80,7 +80,7 @@
               <li class="drop-down m1" label="p-Quick Test Centers"><a href="i-art.php">I-ART</a>
                 <ul>
                   <li class="d-sm-none"><a href="i-art.php">I-ART </a></li>              
-                  <li><a href="https://www.picktime.com/thetestingpro ">Booking I-ART</a></li>              
+                  <li><a href="https://www.picktime.com/thetestingpro">Booking I-ART</a></li>              
                 </ul>
               </li>
               <!-- <li><a href="mobile-supervised-self-swab.php">Mobile Supervised Self-Swab</a></li>  -->             
