@@ -281,11 +281,11 @@
                                 <td>17 Marsiling Lane<br>Singapore 730017 <br> (Marsiling Market)</td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br></tt></td>
                             </tr>
-                            <tr>
+                        <!--    <tr>
                                 <td>Blk 234A Bt Panjang Ring Rd    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>234A Bukit Panjang Ring Road<br>Singapore 671234</td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
-                            </tr>
+                            </tr> -->
                        <!--     <tr>
                                 <td>Blk 75A Whampoa Drive    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>75A Whampoa Drive<br>Singapore 321075</td>
