@@ -40,7 +40,10 @@
                                     </tr>
                                     <tr>
                                         <th>Price</th>
-                                        <td>S$96.00 per test</td>
+                                        
+                                        <td>S$388.00 per test(Results within 3 hours)<br>
+                                           S$228.00 per test(Results within 7 hours)<br>
+                                           S$96.00 per test(Results within 24 hours)</td>
                                     </tr>
                                     <tr>
                                         <th>How</th>
@@ -95,11 +98,11 @@
                                 <td>60A Circuit Road<br>Singapore 370060 </td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr> -->
-                            <tr>
+                            <!-- <tr>
                                 <td>Blk 17 Marsiling Lane   <br>(Void -Deck) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>17 Marsiling Lane<br>Singapore 730017 <br> (Marsiling Market)</td>
                                 <td><b>Monday to Sunady </b><br><tt>9am to 1pm <br> 2pm to 5pm </tt></td>
-                            </tr>                           
+                            </tr>                            -->
                             <tr>
                                 <td>Blk 234A Bt Panjang Ring Rd    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>234A Bukit Panjang Ring Road<br>Singapore 671234</td>
