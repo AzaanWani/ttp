@@ -103,7 +103,7 @@
                                 <td>17 Marsiling Lane<br>Singapore 730017 <br> (Marsiling Market)</td>
                                 <td><b>Monday to Sunady </b><br><tt>9am to 1pm <br> 2pm to 5pm </tt></td>
                             </tr>                           
-                         <!--   <tr>
+                          <tr>
                                 <td>Blk 234A Bt Panjang Ring Rd    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>234A Bukit Panjang Ring Road<br>Singapore 671234</td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm  </tt></td>
@@ -181,18 +181,18 @@
                             There is no special preparation needed for the nasal swab PCR test.
                             </p> <br> 
                             <h4>
-                            How long does is the testing process at the test centre?
+                            How long is the testing process at the test centre?
                             </h4>
                             <p>
-                            The Covid-19 PCR test procedure takes only about 5 minutes to complete,and the entire process (including wait time and registration)
+                            The Covid-19 PCR test procedure takes only about 5 minutes to be administered,and the entire process (including wait time and registration)
                             should not be more than 20-30 minutes. 
                             </p> <br>
                             <h4>
                             How long do I have to wait to receive my PCR test result?
                             </h4>
                             <p>
-                            For our <strong>Standard PCR test,</strong> the test results will be <u>emailed</u> to you <strong> within 24 hours.</strong> For <strong> Express PCR test, </strong> you will receive your test results <strong> 
-                            within 5 - 7 hours </strong><br>
+                            For <strong>Standard PCR test ($96),</strong> the test results will be <u>emailed</u> to you <strong> within 24 hours.</strong><br> For <strong> Express PCR test ($228), </strong> you will receive your test results <strong> 
+                            within 5 - 7 hours. </strong><br> For <strong>Rapid Express PCR test ($388),</strong> you will receive your test results <strong>within 3 hours.</strong>
                             </p> <br>  
                             <h4>
                             What do I do if my Pre-Departure COVID-19 PCR swab test result is positive?
@@ -206,23 +206,32 @@
                             What is the required testing window for a pre-departure COVID-19 PCR swab test?
                             </h4>
                             <p>
-                            The required testing window varies, and it is dependent on your destination country as well as departure flight Please check the testing
-                            window requirements of the country that you are traveling to and whether can our testing turn around time can meet the required
+                            The required testing window varies, and it is dependent on your destination country as well as departure flight time.Please check the testing
+                            window requirements of the country that you are traveling to and whether  our testing turn-around time can meet the required
                             timeline.
                             </p> <br>  
                             <h4>
                             I need to travel urgently in less than 48 hours. Can I still take the Covid-19 PCR Pre-Departure Test?
                             </h4>
                             <p>
-                            You may opt for the express PCR test where you will get the results and Notarised Digital HealthCert in 5 - 7 hours.You should check the 
-                            testing window requirements of your destination country and ensure you have set aside adequate time to take and receive the test results
+                            You may opt for the<strong> Express PCR test</strong> where you will get the results and Notarised Digital HealthCert in <strong> 5 - 7 hours.</strong><br><br>
+                             
+                            You should check the testing window requirements of your destination country and ensure you have set aside adequate time to take and receive the test results
                             before your travel.
-                            </p> <br>      
+                            </p> <br> 
+                            <h4> I need to travel in next 6 to 12 hours for an emergency trip.What are my options for PCR Pre-Departure Test?</h4>
+                                  <p>
+                                   You may opt for the <strong><u>Rapid Express PCR test</u>(at any of our testing centres) </strong>where you will get the results and Notarised Digital HealthCert in 
+                                   <strong> 3 hours.(via email)</strong> <br><br>
+                                   You are to check the testing window requirements of your destination country and ensure you have set adequate time to take  and receive your test results prior to your
+                                   travel. 
+                                  </p>
+                            </h4>     
                         </p>
                         
                     </div>
                 </div>
-                
+                .
                 <div class="row mt-4 box form-group">
                     <div class="col-sm-12">
                         <h5 class="text-center">
