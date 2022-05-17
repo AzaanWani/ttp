@@ -184,7 +184,7 @@
                             How long is the testing process at the test centre?
                             </h4>
                             <p>
-                            The Covid-19 PCR test procedure takes only about 5 minutes to be administered,and the entire process (including wait time and registration)
+                            The Covid-19 PCR test procedure takes only about 5 minutes to be administered, and the entire process (including wait time and registration)
                             should not be more than 20-30 minutes. 
                             </p> <br>
                             <h4>
@@ -198,7 +198,7 @@
                             What do I do if my Pre-Departure COVID-19 PCR swab test result is positive?
                             </h4>
                             <p>
-                            If your PCR swab test comes back positive, you can refer to <a href="https://www.covid.gov.sg/">https://www.covid.gov.sg/</a> as reference to find out what to do. If applicable,your
+                            If your PCR swab test comes back positive, you can refer to <a href="https://www.covid.gov.sg/">https://www.covid.gov.sg/</a> as reference to find out what to do. If applicable your
                             results will also be automatically updated in your TraceTogether
                             app and/or HealthHub portal.
                             </p> <br>  
@@ -219,10 +219,10 @@
                             You should check the testing window requirements of your destination country and ensure you have set aside adequate time to take and receive the test results
                             before your travel.
                             </p> <br> 
-                            <h4> I need to travel in next 6 to 12 hours for an emergency trip.What are my options for PCR Pre-Departure Test?</h4>
+                            <h4> I need to travel in next 6 to 12 hours for an emergency trip. What are my options for PCR Pre-Departure Test?</h4>
                                   <p>
-                                   You may opt for the <strong><u>Rapid Express PCR test</u>(at any of our testing centres) </strong>where you will get the results and Notarised Digital HealthCert in 
-                                   <strong> 3 hours.(via email)</strong> <br><br>
+                                   You may opt for the <strong><u>Rapid Express PCR test </u> (at any of our testing centres) </strong>where you will get the results and Notarised Digital HealthCert in 
+                                   <strong> 3 hours. (via email)</strong> <br><br>
                                    You are to check the testing window requirements of your destination country and ensure you have set adequate time to take  and receive your test results prior to your
                                    travel. 
                                   </p>
