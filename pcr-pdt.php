@@ -198,7 +198,7 @@
                             What do I do if my Pre-Departure COVID-19 PCR swab test result is positive?
                             </h4>
                             <p>
-                            If your PCR swab test comes back positive, you can refer to <a href="https://www.covid.gov.sg/">https://www.covid.gov.sg/</a> as reference to find out what to do. If applicable your
+                            If your PCR swab test comes back positive, you can refer to <a href="https://www.covid.gov.sg/">https://www.covid.gov.sg/</a> as reference to find out what to do. If applicable, your
                             results will also be automatically updated in your TraceTogether
                             app and/or HealthHub portal.
                             </p> <br>  
@@ -206,7 +206,7 @@
                             What is the required testing window for a pre-departure COVID-19 PCR swab test?
                             </h4>
                             <p>
-                            The required testing window varies, and it is dependent on your destination country as well as departure flight time.Please check the testing
+                            The required testing window varies, and it is dependent on your destination country as well as departure flight time. Please check the testing
                             window requirements of the country that you are traveling to and whether  our testing turn-around time can meet the required
                             timeline.
                             </p> <br>  
