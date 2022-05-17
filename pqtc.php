@@ -103,7 +103,7 @@
                                 <td>Blk 60A Circuit Road   <br>(Event Hall)<br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>60A Circuit Road<br>Singapore 370060 </td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
-                            </tr> -->
+                            </tr> -->   
                             <!-- <tr>
                                 <td>Blk 108 Yishun Ring Rd    <br>(Void Deck)<br> <span class="text-danger"><i>Supervised Self-Administered ART only</i></span></td>
                                 <td>108 Yishun Ring Road<br>Singapore 760108 <br> (Chong Pang City)</td>
