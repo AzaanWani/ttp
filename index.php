@@ -104,7 +104,7 @@
    	 </div>
       <div class="container">
       <div class="col-sm-12" data-aos="fade-left " >
-                <h3 class="text-center"> <strong>Our Testing Services & Fees</strong></h3>
+                <h3 class="text-center" style="margin:0"> <strong>Our Testing Services & Fees</strong></h3>
                 <h6 class="text-center"><i>caa 15 June 2022</i></h6>
                 <h4><strong>At Test Centres<strong></h4>
                 <div class="table-responsive ">
