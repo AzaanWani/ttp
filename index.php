@@ -111,55 +111,123 @@
                             <tr>
                                 <th>SN</th>
                                 <th>Test Type</th>
-                                <th>Test Centre</th>
-                                <th>Mobile Testing</th>
+                                <th>Category</th>
+                                <th>Rates</th>
                                 <th>Remarks</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>                        
-                                <th rowspan="2">1</th>
-                                <th rowspan="2">Polymerase Chain Reaction <br> (RT-PCR) Nasal Swab</th>
-                                <th>$96</th>
-                                <th>$138</th>
-                                <td>Results and Notarised<br>
-                                    Digital Healthcert within<br>
-                                    24 hours (via email)
+                                <th rowspan="3">A1</th>
+                                <th rowspan="3">Polymerase Chain Reaction <br> (PCR) Nasal Swab</th>
+                                <th>Standard</th>
+                                <th>$75</th>
+                                <td>Results within 24 hours
                                    
                                 </td>
                             </tr>
                             <tr>                        
-                                <th>$228</th>
-                                <th>$268</th>
-                                <td>Results and Notarised<br>
-                                    Digital Healthcert in 5 – 7<br>
-                                    hours (via email)
+                                <th>Express</th>
+                                <th>$198</th>
+                                <td>Results within 5 - 7 hours
                                 </td>
                             </tr>
                             <tr>                        
-                                <th rowspan="2">2</th>
-                                <th rowspan="2">Administered Antigen Rapid<br>
-                                    Test (ART) for Pre-Departure<br>
-                                    Test (PDT)</th>
-                                <th>$25</th>
-                                <th rowspan="2">$58</th>
-                                <td rowspan="2">Inclusive of Notarised<br>
+                                <th>Rapid Express</th>
+                                <th>$328</th>
+                                <td>Results within 3 hours
+                                </td>
+                            </tr>
+                            <tr>                        
+                                <th >A2</th>
+                                <th >Antigen Rapid Test (ART) for<br> Pre-Departure Test (PDT)
+                                <th>Administered</th>
+                                <th >$20</th>
+                                <td >Inclusive of Notarised<br>
                                                   Digital Healthcert
                                 </td>
                             </tr>
+                            <tr>                        
+                                <th >A3</th>
+                                <th >Antigen Rapid Test (ART for<br> Pre-Event Test (PET)
+                                <th>Supervised Self-Swab</th>
+                                <th >$15</th>
+                                <td >
+                                </td>
+                            </tr>
+                            
                           
                             
                         </tbody>
                     </table>
+                    
                 </div>
-                <div class="col-sm-12" data-aos="slide-up">
+                
+                
+            </div>
+            <br>
+            <div class="col-sm-12" data-aos="fade-left">
+                <h5 class="text-left"> <strong>Mobile Test Services</strong></h5>
+                <div class="table-responsive">
+                    <table class="table table-bordered table-custom">
+                        <thead>
+                            <tr>
+                                <th>SN</th>
+                                <th>Test Type</th>
+                                <th>Mode</th>
+                                <th>Rates</th>
+                                <th>Remarks</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>                        
+                                <th rowspan="3">M1</th>
+                                <th rowspan="3">Polymerase Chain Reaction <br> (PCR) Nasal Swab</th>
+                                <td>Standard</td>
+                                <th>$118</th>
+                                <td>
+                                    Results within
+                                     24 Hours
+                                    
+                                   
+                                </td>
+                            </tr>
+                            <tr>                        
+                                <td>Express</td>
+                                <th>$238</th>
+                                <td>Results within
+                                     5 - 7 Hours
+                                    
+                                </td>
+                            </tr>
+                            <tr>                        
+                                <td>Rapid Express</td>
+                                <th>$388</th>
+                                <td>Results within
+                                     3 Hours
+                                    
+                                </td>
+                            </tr>
+                            
+                            <tr>                        
+                                <th rowspan="2">M2</th>
+                                <th rowspan="2">Antigen Rapid Test (ART) for <br>Pre-Departure Test (PDT) & Pre-<br>Event Test (PET)
+                                <td>Administered</td>
+                                <th rowspan="2">$48</th>
+                                <td rowspan="2">Inclusive of Notarised <br>Digital Healthcert 
+                                </td>
+                            </tr>
+                            </tbody>
+                            </table>
+                            </div>
+                            </div>
+                            <div class="col-sm-12" data-aos="slide-up">
             <p class="">
                 <small>
                     <i>*All fees are inclusive of GST</i>
                 </small><br>
             </p>
               </div>
-            </div>
             
 
            
